@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf2f6;
+    text-align: center;
+}
+
+h1 {
+    background-color: #8e2453;
+    color: transparent;
+    padding: 20px;
+}
+
+.boton {
+    background-color: #e84393;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.tarjeta {
+    background-color: white;
+    width: 200px;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 8px;
+    list-style: none;
+}
+
+.pie {
+    color: gray;
+}
